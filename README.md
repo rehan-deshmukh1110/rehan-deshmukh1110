@@ -21,6 +21,7 @@ I'm a sales professional with **7+ years in the automobile and EV sector** who u
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Analytics:** Sales Analytics · KPI Dashboards · MIS Reporting · Sales Forecasting · Customer Segmentation · Pricing Analysis · Data Cleaning
+
 **Business:** B2B & B2C Sales · Dealer & Channel Management · Spare Parts · Inventory Planning
 
 ---
