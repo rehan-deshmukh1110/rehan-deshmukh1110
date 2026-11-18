@@ -6,7 +6,7 @@ I'm a sales professional with **7+ years in the automobile and EV sector** who u
 
 - 🔭 Currently: Sales Manager at DAO EVTech (EV two-wheeler spare parts)
 - 📊 Focus: sales analytics, KPI dashboards, forecasting, dealer & channel performance
-- 🎓 MBA (part-time), Financial Management & Supply Chain Operations · Data Analytics & BI course (SPPU)
+- 🎓 MBA Financial Management & Supply Chain Operations · Data Analytics & BI course (SPPU)
 - 💼 Open to: **Business Analyst, Sales Analyst, MIS / Sales Operations Analyst** roles in Pune and Mumbai
 
 ---
