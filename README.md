@@ -33,7 +33,7 @@ I'm a sales professional with **7+ years in the automobile and EV sector** who u
 | [Retail Sales Dashboard – Tata Simulation](https://github.com/rehan-deshmukh1110/tata-retail-sales-powerbi) | Power BI, DAX, Power Query | Cleaned 540K sales rows; monthly revenue, top countries & customers, demand map |
 | [Campaign Performance Analysis – BCG Simulation](https://github.com/rehan-deshmukh1110/bcg-campaign-performance-analysis) | Excel Pivot Tables, Slicers | Found the best channel + message for new customers vs overall revenue |
 | [Lounge Demand & Booking Prediction – British Airways Simulation](https://github.com/rehan-deshmukh1110/british-airways-lounge-demand-booking-prediction) | Excel, Python, scikit-learn | Lounge eligibility model from 10,000 flights; Random Forest booking model (ROC-AUC 0.78) |
-| [EV Spare Parts Sales Analytics](https://github.com/rehan-deshmukh1110/ev-spare-parts-sales-analytics) | SQL, Python | Sales growth ₹3L → ₹26L/month, sales by state, battery mix (LFP vs NMC), WhatsApp vs call orders (sample data) |
+| [EV Spare Parts Sales Analytics](https://github.com/rehan-deshmukh1110/ev-spare-parts-sales-analytics) | SQL, Python, Power BI | Sales growth ₹3L → ₹26L/month, sales by state, battery mix (LFP vs NMC), WhatsApp vs call orders (sample data) |
 
 ---
 
